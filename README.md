@@ -8,3 +8,6 @@ Ransom Note Problem: https://leetcode.com/problems/ransom-note/
 
 Day 3 - 26/09/2022
 Maximum Consecutive Ones Problem: https://leetcode.com/problems/max-consecutive-ones/
+
+Day 4 - 27/09/2022
+Duplicate Zeros Problem: https://leetcode.com/problems/duplicate-zeros
