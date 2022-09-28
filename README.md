@@ -11,3 +11,6 @@ Maximum Consecutive Ones Problem: https://leetcode.com/problems/max-consecutive-
 
 Day 4 - 27/09/2022
 Duplicate Zeros Problem: https://leetcode.com/problems/duplicate-zeros
+
+Day 5 - 28/09/2022
+Merge Sorted Arrays Problem: https://leetcode.com/problems/merge-sorted-array/
