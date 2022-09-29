@@ -14,3 +14,6 @@ Duplicate Zeros Problem: https://leetcode.com/problems/duplicate-zeros
 
 Day 5 - 28/09/2022
 Merge Sorted Arrays Problem: https://leetcode.com/problems/merge-sorted-array/
+
+Day 6 - 29/09/2022
+Remove Duplicates Problem: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
