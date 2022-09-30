@@ -17,3 +17,6 @@ Merge Sorted Arrays Problem: https://leetcode.com/problems/merge-sorted-array/
 
 Day 6 - 29/09/2022
 Remove Duplicates Problem: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
+Day 7 - 30/09/2022
+Valid Mountain Array Problem: https://leetcode.com/problems/valid-mountain-array/
