@@ -20,3 +20,6 @@ Remove Duplicates Problem: https://leetcode.com/problems/remove-duplicates-from-
 
 Day 7 - 30/09/2022
 Valid Mountain Array Problem: https://leetcode.com/problems/valid-mountain-array/
+
+Day 8 - 1/10/2022
+Move Zeros Problem: https://leetcode.com/problems/move-zeroes/
