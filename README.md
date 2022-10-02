@@ -22,4 +22,7 @@ Day 7 - 30/09/2022
 Valid Mountain Array Problem: https://leetcode.com/problems/valid-mountain-array/
 
 Day 8 - 1/10/2022
-Move Zeros Problem: https://leetcode.com/problems/move-zeroes/
+Move Zeroes Problem: https://leetcode.com/problems/move-zeroes/
+
+Day 9 - 2/10/2022
+Sort Array by Parity Problem: https://leetcode.com/problems/sort-array-by-parity/
