@@ -27,3 +27,5 @@ Move Zeroes Problem: https://leetcode.com/problems/move-zeroes/
 Day 9 - 2/10/2022
 Sort Array by Parity Problem: https://leetcode.com/problems/sort-array-by-parity/
 
+Day 10 - 3/10/2022
+Max Consecutive Ones 2 Problem: https://leetcode.com/problems/max-consecutive-ones-ii/
