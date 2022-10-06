@@ -1,5 +1,7 @@
 # LeetCode_Problems
  LeetCode Problems of different topics and their various solutions in Java
+
+ Arrays
 Day 1 - 24/09/2022
 Trapping Rainwater Problem: https://leetcode.com/problems/trapping-rain-water/
 
@@ -35,3 +37,5 @@ Find Missing Numbers in an Array Problem: https://leetcode.com/problems/find-all
 
 Day 12 - 5/10/2022
 Squares of a Sorted Array Problem: https://leetcode.com/problems/squares-of-a-sorted-array/
+
+Linked List
