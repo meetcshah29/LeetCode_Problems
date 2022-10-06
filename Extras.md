@@ -1,3 +1,7 @@
 List of Extra Problems solved on LeetCode
 
-Problem 1: 
+Arrays
+
+Linked List
+
+HashMap
