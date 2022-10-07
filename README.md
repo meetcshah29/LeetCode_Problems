@@ -21,7 +21,7 @@ Day 6 - 29/09/2022
 Remove Duplicates Problem: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 Day 7 - 30/09/2022
-Valid Mountain Array Problem: https://leetcode.com/problems/valid-mountain-array/
+Valid Mountain Array Problem: https://leetcode.com/problems/valid-mountain-array/ 
 
 Day 8 - 1/10/2022
 Move Zeroes Problem: https://leetcode.com/problems/move-zeroes/
@@ -30,7 +30,7 @@ Day 9 - 2/10/2022
 Sort Array by Parity Problem: https://leetcode.com/problems/sort-array-by-parity/
 
 Day 10 - 3/10/2022
-Max Consecutive Ones 2 Problem: https://leetcode.com/problems/max-consecutive-ones-ii/
+Max Consecutive Ones 2 Problem: https://leetcode.com/problems/max-consecutive-ones-ii/  (Sliding Window Algorithm)
 
 Day 11 - 4/10/2022
 Find Missing Numbers in an Array Problem: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
@@ -41,3 +41,6 @@ Squares of a Sorted Array Problem: https://leetcode.com/problems/squares-of-a-so
 Linked List
 Day 13 - 6/10/2022
 Linked List Cycle Problem: https://leetcode.com/problems/linked-list-cycle/
+
+Day 14 - 7/10/2022
+Linked List Cycle 2 Problem: https://leetcode.com/problems/linked-list-cycle-ii/ (Floyd's Fast and Slow Pointer Algorithm)
