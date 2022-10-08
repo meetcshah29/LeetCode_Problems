@@ -1,5 +1,7 @@
 package Linked_List;
 
+import java.util.*;
+
 public class LinkedListCycle {
 
     public static void main(String args[])
