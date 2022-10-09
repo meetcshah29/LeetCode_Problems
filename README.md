@@ -47,3 +47,6 @@ Linked List Cycle 2 Problem: https://leetcode.com/problems/linked-list-cycle-ii/
 
 Day 15 - 8/10/2022
 Intersecting Linked List Problem: https://leetcode.com/problems/intersection-of-two-linked-lists/
+
+Day 16 - 9/10/2022
+Remove Nth Node from End of Linked List Problem: https://leetcode.com/problems/remove-nth-node-from-end-of-list/ (Two Pointer Approach)
