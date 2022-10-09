@@ -33,6 +33,8 @@ public class IntersectingLinkedList {
                 pointer2 = pointer2.next;
             }      
         }
+
+        return pointer1;
     }
     
 }
