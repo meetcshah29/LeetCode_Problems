@@ -50,3 +50,6 @@ Intersecting Linked List Problem: https://leetcode.com/problems/intersection-of-
 
 Day 16 - 9/10/2022
 Remove Nth Node from End of Linked List Problem: https://leetcode.com/problems/remove-nth-node-from-end-of-list/ (Two Pointer Approach)
+
+Day 17 - 10/10/2022
+Reverse a Linked List Problem: https://leetcode.com/problems/reverse-linked-list/
