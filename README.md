@@ -53,3 +53,6 @@ Remove Nth Node from End of Linked List Problem: https://leetcode.com/problems/r
 
 Day 17 - 10/10/2022
 Reverse a Linked List Problem: https://leetcode.com/problems/reverse-linked-list/
+
+Day 18 - 11/10/2022
+Remove Elements from a Linked List Problem: https://leetcode.com/problems/remove-linked-list-elements/
