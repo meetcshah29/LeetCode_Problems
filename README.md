@@ -56,3 +56,6 @@ Reverse a Linked List Problem: https://leetcode.com/problems/reverse-linked-list
 
 Day 18 - 11/10/2022
 Remove Elements from a Linked List Problem: https://leetcode.com/problems/remove-linked-list-elements/
+
+Day 19 - 12/10/2022
+Odd Even Linked List Problem: https://leetcode.com/problems/odd-even-linked-list/
