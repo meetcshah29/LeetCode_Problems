@@ -59,3 +59,6 @@ Remove Elements from a Linked List Problem: https://leetcode.com/problems/remove
 
 Day 19 - 12/10/2022
 Odd Even Linked List Problem: https://leetcode.com/problems/odd-even-linked-list/
+
+Day 20 - 13/10/2022
+Palindrome Linked List Problem: https://leetcode.com/problems/palindrome-linked-list/
