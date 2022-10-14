@@ -62,3 +62,6 @@ Odd Even Linked List Problem: https://leetcode.com/problems/odd-even-linked-list
 
 Day 20 - 13/10/2022
 Palindrome Linked List Problem: https://leetcode.com/problems/palindrome-linked-list/
+
+Day 21 - 14/10/2022
+Merge Two Sorted Linked Lists Problem: https://leetcode.com/problems/merge-two-sorted-lists/
