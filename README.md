@@ -65,3 +65,6 @@ Palindrome Linked List Problem: https://leetcode.com/problems/palindrome-linked-
 
 Day 21 - 14/10/2022
 Merge Two Sorted Linked Lists Problem: https://leetcode.com/problems/merge-two-sorted-lists/
+
+Day 22 - 15/10/2022
+Add Two Numbers Problem: https://leetcode.com/problems/add-two-numbers/
