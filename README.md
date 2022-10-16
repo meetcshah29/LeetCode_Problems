@@ -68,3 +68,6 @@ Merge Two Sorted Linked Lists Problem: https://leetcode.com/problems/merge-two-s
 
 Day 22 - 15/10/2022
 Add Two Numbers Problem: https://leetcode.com/problems/add-two-numbers/
+
+Day 23 - 16/10/2022
+Rotate List Problem: https://leetcode.com/problems/rotate-list/
