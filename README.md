@@ -71,3 +71,6 @@ Add Two Numbers Problem: https://leetcode.com/problems/add-two-numbers/
 
 Day 23 - 16/10/2022
 Rotate List Problem: https://leetcode.com/problems/rotate-list/
+
+Day 24 - 17/10/2022
+Insert into a Sorted Circular List Problem: https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/
