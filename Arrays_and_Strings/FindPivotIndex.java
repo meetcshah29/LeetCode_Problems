@@ -25,5 +25,5 @@ public class FindPivotIndex {
             leftSum += nums[i];
         }
         return -1;
-    
+    }
 }
