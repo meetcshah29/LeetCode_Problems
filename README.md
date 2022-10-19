@@ -78,3 +78,6 @@ Insert into a Sorted Circular List Problem: https://leetcode.com/problems/insert
 Arrays and String
 Day 25 - 18/10/2022
 Find Pivot Index Problem: https://leetcode.com/problems/find-pivot-index/
+
+Day 26 - 19/10/2022
+Find Largest Number At Least Twice Of Others: https://leetcode.com/problems/largest-number-at-least-twice-of-others/
