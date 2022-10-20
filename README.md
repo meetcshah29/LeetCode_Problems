@@ -81,3 +81,6 @@ Find Pivot Index Problem: https://leetcode.com/problems/find-pivot-index/
 
 Day 26 - 19/10/2022
 Find Largest Number At Least Twice Of Others: https://leetcode.com/problems/largest-number-at-least-twice-of-others/
+
+Day 27 - 20/10/2022
+Add One Problem: https://leetcode.com/problems/plus-one/
