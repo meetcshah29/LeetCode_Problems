@@ -87,3 +87,6 @@ Add One Problem: https://leetcode.com/problems/plus-one/
 
 Day 28 - 21/10/2022
 Diagonal Traversal Problem: https://leetcode.com/problems/diagonal-traverse/
+
+Day 29 - 22/10/2022
+Spiral Matrix Problem: https://leetcode.com/problems/spiral-matrix/
