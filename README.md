@@ -84,3 +84,6 @@ Find Largest Number At Least Twice Of Others: https://leetcode.com/problems/larg
 
 Day 27 - 20/10/2022
 Add One Problem: https://leetcode.com/problems/plus-one/
+
+Day 28 - 21/10/2022
+Diagonal Traversal Problem: https://leetcode.com/problems/diagonal-traverse/
