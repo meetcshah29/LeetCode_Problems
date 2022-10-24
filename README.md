@@ -93,3 +93,6 @@ Spiral Matrix Problem: https://leetcode.com/problems/spiral-matrix/
 
 Day 30 - 23/10/2022
 Pascal's Triangle Problem: https://leetcode.com/problems/pascals-triangle/
+
+Day 31 - 24/10/2022
+Add Binary Problem: https://leetcode.com/problems/add-binary/
