@@ -96,3 +96,6 @@ Pascal's Triangle Problem: https://leetcode.com/problems/pascals-triangle/
 
 Day 31 - 24/10/2022
 Add Binary Problem: https://leetcode.com/problems/add-binary/
+
+Day 32 - 25/10/2022
+Longest Common Prefix Problem: https://leetcode.com/problems/longest-common-prefix/
