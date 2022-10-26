@@ -7,7 +7,7 @@ public class ReverseString {
 
     }
 
-    public static void reverseString(char [] c)
+    public static void reverseString(char [] s)
     {
         int start = 0;
         int end = s.length - 1;
