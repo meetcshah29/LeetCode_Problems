@@ -99,3 +99,6 @@ Add Binary Problem: https://leetcode.com/problems/add-binary/
 
 Day 32 - 25/10/2022
 Longest Common Prefix Problem: https://leetcode.com/problems/longest-common-prefix/
+
+Day 33 - 26/10/2022
+Reverse String Problem: https://leetcode.com/problems/reverse-string/
