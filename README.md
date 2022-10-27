@@ -102,3 +102,6 @@ Longest Common Prefix Problem: https://leetcode.com/problems/longest-common-pref
 
 Day 33 - 26/10/2022
 Reverse String Problem: https://leetcode.com/problems/reverse-string/
+
+Day 34 - 27/10/2022
+Array Partition I Problem: https://leetcode.com/problems/array-partition/
