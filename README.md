@@ -105,3 +105,6 @@ Reverse String Problem: https://leetcode.com/problems/reverse-string/
 
 Day 34 - 27/10/2022
 Array Partition I Problem: https://leetcode.com/problems/array-partition/
+
+Day 35 - 28/10/2022
+Two Sum II Problem: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
