@@ -108,3 +108,6 @@ Array Partition I Problem: https://leetcode.com/problems/array-partition/
 
 Day 35 - 28/10/2022
 Two Sum II Problem: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+
+Day 36 - 29/10/2022
+Remove Element Problem: https://leetcode.com/problems/remove-element/
