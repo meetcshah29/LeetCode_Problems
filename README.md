@@ -111,3 +111,6 @@ Two Sum II Problem: https://leetcode.com/problems/two-sum-ii-input-array-is-sort
 
 Day 36 - 29/10/2022
 Remove Element Problem: https://leetcode.com/problems/remove-element/
+
+Day 37 - 30/10/2022
+Minimum Size Subarray Sum Problem: https://leetcode.com/problems/minimum-size-subarray-sum/
