@@ -10,8 +10,8 @@ public class RotateArray
 
     public static void rotateArrayByK(int nums[], int k)
     {
-        k = k % nums.length;
         reverseArray(nums, 0, nums.length - 1);
+        k = k % nums.length;
         reverseArray(nums, 0, k - 1);
         reverseArray(nums, k, nums.length - 1);
     }
