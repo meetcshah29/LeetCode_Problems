@@ -114,3 +114,6 @@ Remove Element Problem: https://leetcode.com/problems/remove-element/
 
 Day 37 - 30/10/2022
 Minimum Size Subarray Sum Problem: https://leetcode.com/problems/minimum-size-subarray-sum/
+
+Day 38 - 31/10/2022
+Rotate Array Problem: https://leetcode.com/problems/rotate-array/
