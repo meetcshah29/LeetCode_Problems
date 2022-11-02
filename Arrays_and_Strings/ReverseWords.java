@@ -32,7 +32,7 @@ public class ReverseWords {
 
                 if(j == index)
                 {
-                    res[position] = ' ';
+                    result[position] = ' ';
                     position++;
                 }
             }
