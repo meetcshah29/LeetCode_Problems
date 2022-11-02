@@ -24,7 +24,7 @@ public class ReverseWords3 {
                     stringArray[start] = stringArray[end];
                     stringArray[end] = temp;
                     start++;
-                    end--;
+                    end--; 
                 }
                 index = i;
             }
