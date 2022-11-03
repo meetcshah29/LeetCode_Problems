@@ -123,3 +123,6 @@ Reverse Words in a String Problem: https://leetcode.com/problems/reverse-words-i
 
 Day 40 - 2/11/2022
 Reverse Words in a String 3 Problem: https://leetcode.com/problems/reverse-words-in-a-string-iii/
+
+Day 41 - 3/11/2022
+Single Number Problem: https://leetcode.com/problems/single-number/
