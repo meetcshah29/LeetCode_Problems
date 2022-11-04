@@ -126,3 +126,6 @@ Reverse Words in a String 3 Problem: https://leetcode.com/problems/reverse-words
 
 Day 41 - 3/11/2022
 Single Number Problem: https://leetcode.com/problems/single-number/
+
+Day 42 - 4/11/2022
+Intersection of Arrays Problem: https://leetcode.com/problems/intersection-of-two-arrays/
