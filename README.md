@@ -129,3 +129,6 @@ Single Number Problem: https://leetcode.com/problems/single-number/
 
 Day 42 - 4/11/2022
 Intersection of Arrays Problem: https://leetcode.com/problems/intersection-of-two-arrays/
+
+Day 43 - 5/11/2022
+Happy Number Problem: https://leetcode.com/problems/happy-number/
