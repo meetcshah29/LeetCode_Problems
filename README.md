@@ -132,3 +132,6 @@ Intersection of Arrays Problem: https://leetcode.com/problems/intersection-of-tw
 
 Day 43 - 5/11/2022
 Happy Number Problem: https://leetcode.com/problems/happy-number/
+
+Day 44 - 6/11/2022
+Two Sum Problem: https://leetcode.com/problems/two-sum/
