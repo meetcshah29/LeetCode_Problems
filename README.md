@@ -135,3 +135,6 @@ Happy Number Problem: https://leetcode.com/problems/happy-number/
 
 Day 44 - 6/11/2022
 Two Sum Problem: https://leetcode.com/problems/two-sum/
+
+Day 45 - 7/11/2022
+Minimum Index Sum of Two Lists Problem: https://leetcode.com/problems/minimum-index-sum-of-two-lists/ 
