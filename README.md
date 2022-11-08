@@ -137,4 +137,7 @@ Day 44 - 6/11/2022
 Two Sum Problem: https://leetcode.com/problems/two-sum/
 
 Day 45 - 7/11/2022
-Minimum Index Sum of Two Lists Problem: https://leetcode.com/problems/minimum-index-sum-of-two-lists/ 
+Minimum Index Sum of Two Lists Problem: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
+
+Day 46 - 8/11/2022
+First Unique Character in a String Problem: https://leetcode.com/problems/first-unique-character-in-a-string/
