@@ -141,3 +141,6 @@ Minimum Index Sum of Two Lists Problem: https://leetcode.com/problems/minimum-in
 
 Day 46 - 8/11/2022
 First Unique Character in a String Problem: https://leetcode.com/problems/first-unique-character-in-a-string/
+
+Day 47 - 9/11/2022
+Intersection of Arrays II Problem: https://leetcode.com/problems/intersection-of-two-arrays-ii/ 
