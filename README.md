@@ -143,4 +143,7 @@ Day 46 - 8/11/2022
 First Unique Character in a String Problem: https://leetcode.com/problems/first-unique-character-in-a-string/
 
 Day 47 - 9/11/2022
-Intersection of Arrays II Problem: https://leetcode.com/problems/intersection-of-two-arrays-ii/ 
+Intersection of Arrays II Problem: https://leetcode.com/problems/intersection-of-two-arrays-ii/
+
+Day 48 - 10/11/2022
+Contains Duplicates II Problem: https://leetcode.com/problems/contains-duplicate-ii/
