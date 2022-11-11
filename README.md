@@ -147,3 +147,6 @@ Intersection of Arrays II Problem: https://leetcode.com/problems/intersection-of
 
 Day 48 - 10/11/2022
 Contains Duplicates II Problem: https://leetcode.com/problems/contains-duplicate-ii/
+
+Day 49 - 11/11/2022
+Group Anagrams Problem: https://leetcode.com/problems/group-anagrams/
