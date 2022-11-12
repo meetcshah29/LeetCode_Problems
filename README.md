@@ -150,3 +150,6 @@ Contains Duplicates II Problem: https://leetcode.com/problems/contains-duplicate
 
 Day 49 - 11/11/2022
 Group Anagrams Problem: https://leetcode.com/problems/group-anagrams/
+
+Day 50 - 12/11/2022
+Group Shifted Strings Problem: https://leetcode.com/problems/group-shifted-strings/
