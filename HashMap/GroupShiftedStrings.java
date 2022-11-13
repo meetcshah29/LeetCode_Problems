@@ -20,7 +20,7 @@ public class GroupShiftedStrings
         
         int shift = characterArray[0];
         for (int i = 0; i < characterArray.length; i++) {
-            chars[i] = shiftLetter(characterArray[i], shift);
+            characterArray[i] = shiftLetter(characterArray[i], shift);
         }
         
         String hashKey = String.valueOf(characterArray);
