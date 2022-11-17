@@ -13,8 +13,8 @@ public class WallsAndGates
     private static final int GATE = 0; // Value for a Gated Room
     private static final List<int[]> DIRECTIONS = Arrays.asList // List of Direction Traversals
     (
-     new int[] { 1,  0}, // Go up
-     new int[] {-1,  0}, // Go down
+     new int[] { 1,  0}, // Go down
+     new int[] {-1,  0}, // Go up
      new int[] { 0,  1}, // Go right
      new int[] { 0, -1} // Go left
     );
