@@ -35,14 +35,14 @@ public class WallsAndGates
             {
                 if (rooms[row][col] == GATE) 
                 {
-                    q.add(new int[] { row, col });
+                    q.add(new int[] { row, col }); // Traverse through each row and column and add the gates to the queue
                 }
             }
         }
 
         while (!q.isEmpty()) // Run if Queue is not empty
         {
-            int[] point = q.poll(); // Check for the first point by using the first value of the queue
+            int[] point = q.poll();
             int row = point[0]; // Get the row of the point
             int col = point[1]; // Get the column of the point
             for (int[] direction : DIRECTIONS)  // Traverse from the point using the directions from above
@@ -53,8 +53,8 @@ public class WallsAndGates
                 {
                     continue; // Skip if row/column accessed is invalid or room is not empty
                 }
-                rooms[r][c] = rooms[row][col] + 1; // Mark every empty room in the main array
-                q.add(new int[] {r, c}); // Add the new point in the queue
+                rooms[r][c] = rooms[row][col] + 1; 
+                q.add(new int[] {r, c}); 
             }
         }
     }
