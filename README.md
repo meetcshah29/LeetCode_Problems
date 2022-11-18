@@ -158,3 +158,6 @@ SICK BREAK
 
 Day 51 - 17/11/2022
 Walls and Gates Problem: https://leetcode.com/problems/walls-and-gates/
+
+Day 52 - 18/11/2022
+Ugly Number Problem: https://leetcode.com/problems/ugly-number/
