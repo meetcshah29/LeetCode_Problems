@@ -164,3 +164,6 @@ Ugly Number Problem: https://leetcode.com/problems/ugly-number/
 
 Day 53 - 19/11/2022
 Roman To Integer Problem: https://leetcode.com/problems/roman-to-integer/
+
+Day 54 - 20/11/2022
+Length of Last Word Problem: https://leetcode.com/problems/length-of-last-word/
