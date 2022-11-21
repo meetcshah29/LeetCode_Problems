@@ -167,3 +167,6 @@ Roman To Integer Problem: https://leetcode.com/problems/roman-to-integer/
 
 Day 54 - 20/11/2022
 Length of Last Word Problem: https://leetcode.com/problems/length-of-last-word/
+
+Day 55 - 21/11/2022
+Search Insert Position Problem: https://leetcode.com/problems/search-insert-position/
