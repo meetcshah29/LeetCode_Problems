@@ -170,3 +170,6 @@ Length of Last Word Problem: https://leetcode.com/problems/length-of-last-word/
 
 Day 55 - 21/11/2022
 Search Insert Position Problem: https://leetcode.com/problems/search-insert-position/
+
+Day 56 - 22/11/2022
+Valid Parentheses Problem: https://leetcode.com/problems/valid-parentheses/
