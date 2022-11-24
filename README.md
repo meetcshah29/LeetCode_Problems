@@ -176,3 +176,6 @@ Valid Parentheses Problem: https://leetcode.com/problems/valid-parentheses/
 
 Day 57 - 23/11/2022
 Climbing Stairs Problem: https://leetcode.com/problems/climbing-stairs/
+
+Day 58 - 24/11/2022
+Remove Duplicates from Sorted List: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
