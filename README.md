@@ -179,3 +179,6 @@ Climbing Stairs Problem: https://leetcode.com/problems/climbing-stairs/
 
 Day 58 - 24/11/2022
 Remove Duplicates from Sorted List: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+
+Day 59 - 25/11/2022
+Buy and Sell Stocks Problem: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
