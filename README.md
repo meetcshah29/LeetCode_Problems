@@ -182,3 +182,6 @@ Remove Duplicates from Sorted List: https://leetcode.com/problems/remove-duplica
 
 Day 59 - 25/11/2022
 Buy and Sell Stocks Problem: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+Day 60 - 26/11/2022
+Valid Palindrome Problem: https://leetcode.com/problems/valid-palindrome/
