@@ -185,3 +185,6 @@ Buy and Sell Stocks Problem: https://leetcode.com/problems/best-time-to-buy-and-
 
 Day 60 - 26/11/2022
 Valid Palindrome Problem: https://leetcode.com/problems/valid-palindrome/
+
+Day 61 - 27/11/2022
+Reverse Bits Problem: https://leetcode.com/problems/reverse-bits/
