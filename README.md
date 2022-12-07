@@ -1,7 +1,6 @@
 # LeetCode_Problems
  LeetCode Problems of different topics and their various solutions in Java
 
- Arrays
 Day 1 - 24/09/2022
 Trapping Rainwater Problem: https://leetcode.com/problems/trapping-rain-water/
 
@@ -38,7 +37,6 @@ Find Missing Numbers in an Array Problem: https://leetcode.com/problems/find-all
 Day 12 - 5/10/2022
 Squares of a Sorted Array Problem: https://leetcode.com/problems/squares-of-a-sorted-array/
 
-Linked List
 Day 13 - 6/10/2022
 Linked List Cycle Problem: https://leetcode.com/problems/linked-list-cycle/
 
@@ -75,7 +73,6 @@ Rotate List Problem: https://leetcode.com/problems/rotate-list/
 Day 24 - 17/10/2022
 Insert into a Sorted Circular List Problem: https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/
 
-Arrays and String
 Day 25 - 18/10/2022
 Find Pivot Index Problem: https://leetcode.com/problems/find-pivot-index/
 
@@ -188,3 +185,8 @@ Valid Palindrome Problem: https://leetcode.com/problems/valid-palindrome/
 
 Day 61 - 27/11/2022
 Reverse Bits Problem: https://leetcode.com/problems/reverse-bits/
+
+STUDY BREAK
+
+Day 62 - 7/12/2022
+Container With Most Water Problem: https://leetcode.com/problems/container-with-most-water/
