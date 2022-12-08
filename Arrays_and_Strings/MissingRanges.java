@@ -65,7 +65,8 @@ public class MissingRanges
             return null;
         }
 
-        if (start + 1 == end - 1) {
+        if (start + 1 == end - 1) 
+        {
             return String.valueOf(start + 1);
         }
 
