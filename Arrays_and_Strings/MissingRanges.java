@@ -36,7 +36,7 @@ public class MissingRanges
             }
             else 
             {
-                tailPointer = upper+1;
+                tailPointer = upper + 1;
             }
 
             range = getMissingRange(headPointer, tailPointer);
