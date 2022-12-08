@@ -190,3 +190,6 @@ STUDY BREAK
 
 Day 62 - 7/12/2022
 Container With Most Water Problem: https://leetcode.com/problems/container-with-most-water/
+
+Day 63 - 8/12/2022
+Missing Ranges Problem: https://leetcode.com/problems/missing-ranges/
