@@ -193,3 +193,8 @@ Container With Most Water Problem: https://leetcode.com/problems/container-with-
 
 Day 63 - 8/12/2022
 Missing Ranges Problem: https://leetcode.com/problems/missing-ranges/
+
+SICK BREAK
+
+Day 64 - 01/01/2023
+Square Root Problem: https://leetcode.com/problems/sqrtx/
