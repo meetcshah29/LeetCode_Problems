@@ -198,3 +198,6 @@ SICK BREAK
 
 Day 64 - 01/01/2023
 Square Root Problem: https://leetcode.com/problems/sqrtx/
+
+Day 65 - 02/01/2023
+Detect Capital Problem: https://leetcode.com/problems/detect-capital/
