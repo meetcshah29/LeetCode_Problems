@@ -201,3 +201,6 @@ Square Root Problem: https://leetcode.com/problems/sqrtx/
 
 Day 65 - 02/01/2023
 Detect Capital Problem: https://leetcode.com/problems/detect-capital/
+
+Day 66 - 03/01/2023
+Delete Columns Problem: https://leetcode.com/problems/delete-columns-to-make-sorted/
