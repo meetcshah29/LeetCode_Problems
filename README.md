@@ -204,3 +204,6 @@ Detect Capital Problem: https://leetcode.com/problems/detect-capital/
 
 Day 66 - 03/01/2023
 Delete Columns Problem: https://leetcode.com/problems/delete-columns-to-make-sorted/
+
+Day 67 - 04/01/2023
+Complete All Tasks Problem: https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
