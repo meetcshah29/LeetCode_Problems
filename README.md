@@ -207,3 +207,6 @@ Delete Columns Problem: https://leetcode.com/problems/delete-columns-to-make-sor
 
 Day 67 - 04/01/2023
 Complete All Tasks Problem: https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
+
+Day 68 - 05/01/2023
+Burst All Balloons Problem: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
