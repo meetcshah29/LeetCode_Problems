@@ -211,5 +211,8 @@ Complete All Tasks Problem: https://leetcode.com/problems/minimum-rounds-to-comp
 Day 68 - 05/01/2023
 Burst All Balloons Problem: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 
-Day 69 - 06/1/2023
+Day 69 - 06/01/2023
 Maximum Ice Cream Bars Problem: https://leetcode.com/problems/maximum-ice-cream-bars/
+
+Day 70 - 07/01/2023
+Gas Station Problem: https://leetcode.com/problems/gas-station/
