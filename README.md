@@ -216,3 +216,6 @@ Maximum Ice Cream Bars Problem: https://leetcode.com/problems/maximum-ice-cream-
 
 Day 70 - 07/01/2023
 Gas Station Problem: https://leetcode.com/problems/gas-station/
+
+Day 71 - 08/01/2023
+Max Points on a Line Problem: https://leetcode.com/problems/max-points-on-a-line/
