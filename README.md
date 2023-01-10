@@ -222,3 +222,6 @@ Max Points on a Line Problem: https://leetcode.com/problems/max-points-on-a-line
 
 Day 72 - 09/01/2023
 Binary Tree Traversal ProbleM: https://leetcode.com/problems/binary-tree-preorder-traversal/
+
+Day 73 - 10/01/2023
+Same Tree Problem: https://leetcode.com/problems/same-tree/
