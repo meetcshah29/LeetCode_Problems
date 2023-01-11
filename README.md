@@ -225,3 +225,6 @@ Binary Tree Traversal ProbleM: https://leetcode.com/problems/binary-tree-preorde
 
 Day 73 - 10/01/2023
 Same Tree Problem: https://leetcode.com/problems/same-tree/
+
+Day 74 - 11/01/2023
+Minimum Time to Collect All Apples Problem: https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
