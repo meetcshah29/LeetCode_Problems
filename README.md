@@ -228,3 +228,6 @@ Same Tree Problem: https://leetcode.com/problems/same-tree/
 
 Day 74 - 11/01/2023
 Minimum Time to Collect All Apples Problem: https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
+
+Day 75 - 12/01/2023
+Number of Nodes in the Sub-Tree with the Same Label Problem: https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/
